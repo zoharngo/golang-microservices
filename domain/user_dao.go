@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/zoharngo/golang-microservices/mvc/utills"
+	"github.com/zoharngo/golang-microservices/utills"
 )
 
 var (

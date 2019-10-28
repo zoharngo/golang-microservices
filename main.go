@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zoharngo/golang-microservices/mvc/app"
+	"github.com/zoharngo/golang-microservices/app"
 )
 
 var (

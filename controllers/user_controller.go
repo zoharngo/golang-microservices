@@ -7,8 +7,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/zoharngo/golang-microservices/mvc/services"
-	"github.com/zoharngo/golang-microservices/mvc/utills"
+	"github.com/zoharngo/golang-microservices/services"
+	"github.com/zoharngo/golang-microservices/utills"
 )
 
 type userController struct{}

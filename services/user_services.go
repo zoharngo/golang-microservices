@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/zoharngo/golang-microservices/mvc/domain"
-	"github.com/zoharngo/golang-microservices/mvc/utills"
+	"github.com/zoharngo/golang-microservices/domain"
+	"github.com/zoharngo/golang-microservices/utills"
 )
 
 type usersService struct{}

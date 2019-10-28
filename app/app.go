@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/zoharngo/golang-microservices/mvc/controllers"
+	"github.com/zoharngo/golang-microservices/controllers"
 )
 
 var (
